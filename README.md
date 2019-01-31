@@ -4,6 +4,12 @@ Build a single-page web application with a React/Redux front-end that
 communicates with a Ruby/Rails back-end backed by postgres to manage
 a book collection.
 
+Create a private github repo and add cclifford3 & sufyanadam as
+collaborators. Please keep all commit history and don't squash
+any commits. If there is a commit you would typically squash out,
+just mention it in the commit message:
+'I would generally squash a commit like this'
+
 ## Scope
 
 The root page should be the book collection index page with links to
@@ -73,3 +79,4 @@ request to the back end and redirect back to the index page on
 successful request. An API request should not be made if there are
 no changes or any required fields are missing. Display an appropriate
 error message in either case after the submit button is clicked.
+
