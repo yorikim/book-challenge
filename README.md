@@ -9,6 +9,11 @@ collaborators. Please keep all commit history and don't squash
 any commits. If there is a commit you would typically squash out,
 just mention it in the commit message:
 'I would generally squash a commit like this'
+But otherwise keep your git history and for more meaningful
+commits a good commit message.
+
+Deploy a working version of your application wherever you like
+and share a link with us so we can see it running.
 
 ## Scope
 
